@@ -7,11 +7,11 @@ def hello_t(arr)
       i = i +1
     end
 
-  arr
-else
+    arr
+  else
   puts "Hey! No block was given!"
 end
-
+ 
 end
 
 # call your method here!
